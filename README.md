@@ -11,3 +11,6 @@ Navigate to the API Key Section.
 Click on Generate API key, and follow the instructions.
 Copy the generated API key.
 Replace YOUR_API_KEY in the provided script with your actual API Key. 
+
+
+Make sure to change the city in your query to get weather for different locations. 
